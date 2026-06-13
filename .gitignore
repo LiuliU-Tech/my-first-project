@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 番茄钟数据文件（用户数据，不提交）
+pomodoro_data.json
+pomodoro_config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
